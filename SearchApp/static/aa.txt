@@ -1,0 +1,3 @@
+cryptographic technique that allows users to search specific information in encrypted content without decrypting the entire database. SE schemes use beacons 
+to create a map between the plaintext value written to a field and the encrypted value stored in the database. 
+SE schemes must meet the following requirement
